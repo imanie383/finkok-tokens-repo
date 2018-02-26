@@ -1,12 +1,32 @@
-<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:util="http://facturacion.finkok.com/utilities">
-   <soapenv:Header/>
-   <soapenv:Body>
-      <util:add_token>
-         <util:username>soporte@finkok.com</util:username>
-         <util:password>Pa$$Mast3r</util:password>
-         <util:name>AppIOS</util:name>
-         <util:taxpayer_id></util:taxpayer_id>
-         <util:status>true</util:status>
-      </util:add_token>
-   </soapenv:Body>
-</soapenv:Envelope>
+<?xml version="1.0" encoding="UTF-8"?>
+<SOAP-ENV:Envelope xmlns:ns0="http://schemas.xmlsoap.org/soap/envelope/" xmlns:ns1="http://facturacion.finkok.com/stamp" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/">
+   <SOAP-ENV:Header/>
+   <ns0:Body>
+      <ns1:stamp>
+         <ns1:xml>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPFNPQVAtRU5WOkVudmVsb3Bl
+IHhtbG5zOm5zMD0iaHR0cDovL3NjaGVtYXMueG1sc29hcC5vcmcvc29hcC9lbnZlbG9wZS8iIHht
+bG5zOm5zMT0iaHR0cDovL2ZhY3R1cmFjaW9uLmZpbmtvay5jb20vc3RhbXAiIHhtbG5zOnhzaT0i
+aHR0cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiIHhtbG5zOlNPQVAtRU5W
+PSJodHRwOi8vc2NoZW1hcy54bWxzb2FwLm9yZy9zb2FwL2VudmVsb3BlLyI+CiAgIDxTT0FQLUVO
+VjpIZWFkZXIvPgogICA8bnMwOkJvZHk+CiAgICAgIDxuczE6c3RhbXA+CiAgICAgICAgIDxuczE6
+eG1sPlBITnZZWEJsYm5ZNlJXNTJaV3h2Y0dVZ2VHMXNibk02YzI5aGNHVnVkajBpYUhSMGNEb3ZM
+M05qYUdWdFlYTXVlRzFzYzI5aGNDNXYKY21jdmMyOWhjQzlsYm5abGJHOXdaUzhpSUhodGJHNXpP
+blYwYVd3OUltaDBkSEE2THk5bVlXTjBkWEpoWTJsdmJpNW1hVzVyYjJzdQpZMjl0TDNWMGFXeHBk
+R2xsY3lJK0NpQWdJRHh6YjJGd1pXNTJPa2hsWVdSbGNpOCtDaUFnSUR4emIyRndaVzUyT2tKdlpI
+aytDaUFnCklDQWdJRHgxZEdsc09tRmtaRjkwYjJ0bGJqNEtJQ0FnSUNBZ0lDQWdQSFYwYVd3NmRY
+TmxjbTVoYldVK2MyOXdiM0owWlVCbWFXNXIKYjJzdVkyOXRQQzkxZEdsc09uVnpaWEp1WVcxbFBn
+b2dJQ0FnSUNBZ0lDQThkWFJwYkRwd1lYTnpkMjl5WkQ1UVlTUWtUV0Z6ZEROeQpQQzkxZEdsc09u
+QmhjM04zYjNKa1Bnb2dJQ0FnSUNBZ0lDQThkWFJwYkRwdVlXMWxQa0Z3Y0VsUFV6d3ZkWFJwYkRw
+dVlXMWxQZ29nCklDQWdJQ0FnSUNBOGRYUnBiRHAwWVhod1lYbGxjbDlwWkQ0OEwzVjBhV3c2ZEdG
+NGNHRjVaWEpmYVdRK0NpQWdJQ0FnSUNBZ0lEeDEKZEdsc09uTjBZWFIxY3o1MGNuVmxQQzkxZEds
+c09uTjBZWFIxY3o0S0lDQWdJQ0FnUEM5MWRHbHNPbUZrWkY5MGIydGxiajRLSUNBZwpQQzl6YjJG
+d1pXNTJPa0p2WkhrK0Nqd3ZjMjloY0dWdWRqcEZiblpsYkc5d1pUND0KPC9uczE6eG1sPgogICAg
+ICAgICA8bnMxOnVzZXJuYW1lPmNmZGlAdmF1eG9vLmNvbTwvbnMxOnVzZXJuYW1lPgogICAgICAg
+ICA8bnMxOnBhc3N3b3JkPnZBdXgwMF9fPC9uczE6cGFzc3dvcmQ+CiAgICAgIDwvbnMxOnN0YW1w
+PgogICA8L25zMDpCb2R5Pgo8L1NPQVAtRU5WOkVudmVsb3BlPg==
+</ns1:xml>
+         <ns1:username>cfdi@vauxoo.com</ns1:username>
+         <ns1:password>vAux00__</ns1:password>
+      </ns1:stamp>
+   </ns0:Body>
+</SOAP-ENV:Envelope>

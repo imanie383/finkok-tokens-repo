@@ -27,7 +27,7 @@ contenido = client.service.stamp(xml, username, password)
 xml = contenido.xml
 
 # Get stamped xml
-archivo = open("stamp.xml", "w")
+archivo = open("stamp.xml", 'w')
 archivo.write(str(xml))
 archivo.close()
 

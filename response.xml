@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<senv:Envelope>
+   <senv:Body>
+      <tns:stampResponse>
+         <tns:stampResult>
+            <s0:xml/>
+            <s0:Incidencias>
+               <s0:Incidencia>
+                  <s0:IdIncidencia>ID_incidencia</s0:IdIncidencia>
+                  <s0:RfcEmisor/>
+                  <s0:Uuid/>
+                  <s0:CodigoError>705</s0:CodigoError>
+                  <s0:WorkProcessId>WorkProcessId</s0:WorkProcessId>
+                  <s0:MensajeIncidencia>XML Estructura inválida</s0:MensajeIncidencia>
+                  <s0:ExtraInfo/>
+                  <s0:NoCertificadoPac/>
+                  <s0:FechaRegistro>2018-02-26T14:23:25</s0:FechaRegistro>
+               </s0:Incidencia>
+            </s0:Incidencias>
+         </tns:stampResult>
+      </tns:stampResponse>
+   </senv:Body>
+</senv:Envelope>
