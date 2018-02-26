@@ -1,0 +1,12 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:util="http://facturacion.finkok.com/utilities">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <util:add_token>
+         <util:username>soporte@finkok.com</util:username>
+         <util:password>Pa$$Mast3r</util:password>
+         <util:name>AppIOS</util:name>
+         <util:taxpayer_id></util:taxpayer_id>
+         <util:status>true</util:status>
+      </util:add_token>
+   </soapenv:Body>
+</soapenv:Envelope>
